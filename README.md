@@ -172,4 +172,4 @@ Made with ❤️ by [@wei](https://github.com/wei)
 [license-url]: https://wei.mit-license.org
 [pull-app]: https://github.com/apps/pull
 [pull-repo]: https://github.com/wei/pull
-[pull-sponsor]: https://prod.download/pull-readme-sponsor
+[pull-sponsor]: https://prod.download/pull-readme-sponsor.
